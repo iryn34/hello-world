@@ -1,2 +1,3 @@
 # hello-world
-My first ever repository
+
+I learn JavaScript and find this quite exciting.
